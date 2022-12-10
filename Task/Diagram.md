@@ -1,0 +1,1 @@
+![diagram](/FinalCheck/FirstBlock/блоксхема.jpg)
